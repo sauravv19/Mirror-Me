@@ -1,0 +1,39 @@
+# Web framework
+fastapi
+uvicorn
+starlette
+
+# Auth & Security
+python-jose
+passlib[bcrypt]
+pyjwt
+python-dotenv
+
+# Database
+motor
+pymongo
+
+# Data validation
+pydantic
+pydantic-settings
+email-validator
+
+# Utils
+requests
+Pillow
+numpy
+opencv-python-headless
+mediapipe
+scipy
+
+# Google Cloud / AI
+google-auth
+google-genai
+grpcio
+grpcio-tools
+
+# fal-client (3rd party inference API)
+fal-client
+
+# Dev utilities
+python-multipart
